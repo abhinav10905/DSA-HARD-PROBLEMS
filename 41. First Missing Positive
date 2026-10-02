@@ -18,3 +18,8 @@ class Solution:
             if nums[i]!=i+1:
                 return i+1
         return len(nums)+1
+
+**ABOUT MY CODE**
+Time:- O(n)
+Space:- O(1)
+Approach:- Math, Array
